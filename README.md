@@ -36,7 +36,7 @@ If you discover any security related issues, please submit an issue here:<br>
 ## Credits
 
 - [Márk Sági-Kazár](https://github.com/sagikazarmark)
-- [Márk Sági-Kazár](https://github.com/Yogarine)
+- [Alwin Garside](https://github.com/Yogarine)
 - [All Contributors](https://github.com/Yogarine/doctrine-annotation-autoload/contributors)
 
 
