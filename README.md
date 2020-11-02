@@ -1,8 +1,8 @@
 # Composer Doctrine Annotation Autoload plugin
 
-[![Latest Version](https://img.shields.io/github/release/indigophp/doctrine-annotation-autoload.svg?style=flat-square)](https://github.com/indigophp/doctrine-annotation-autoload/releases)
+[![Latest Version](https://img.shields.io/github/release/Yogarine/doctrine-annotation-autoload.svg?style=flat-square)](https://github.com/Yogarine/doctrine-annotation-autoload/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/indigophp/doctrine-annotation-autoload.svg?style=flat-square)](https://packagist.org/packages/indigophp/doctrine-annotation-autoload)
+[![Total Downloads](https://img.shields.io/packagist/dt/yogarine/doctrine-annotation-autoload.svg?style=flat-square)](https://packagist.org/packages/yogarine/doctrine-annotation-autoload)
 
 **Hooks into Composer autoload generation and adds Doctrine annotation autoloading.**
 
@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require indigophp/doctrine-annotation-autoload
+$ composer require yogarine/doctrine-annotation-autoload
 ```
 
 
@@ -29,13 +29,15 @@ $ composer dump-autoload
 
 ## Security
 
-If you discover any security related issues, please contact us at [security@indigophp.com](mailto:security@indigophp.com).
+If you discover any security related issues, please submit an issue here:<br>
+[https://github.com/Yogarine/doctrine-annotation-autoload/issues](https://github.com/Yogarine/doctrine-annotation-autoload/issues)
 
 
 ## Credits
 
 - [Márk Sági-Kazár](https://github.com/sagikazarmark)
-- [All Contributors](https://github.com/indigophp/doctrine-annotation-autoload/contributors)
+- [Márk Sági-Kazár](https://github.com/Yogarine)
+- [All Contributors](https://github.com/Yogarine/doctrine-annotation-autoload/contributors)
 
 
 ## License
